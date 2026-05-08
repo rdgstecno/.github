@@ -53,6 +53,18 @@ Somos uma empresa focada na convergência entre a **Engenharia Tradicional** e a
 
 ---
 
+### 📁 Projetos em Destaque
+<div align="center">
+  <a href="https://github.com/rdgstecno/rdgs-new-portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rdgstecno&repo=rdgs-new-portal&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/rdgstecno/rdgs-orcamentos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rdgstecno&repo=rdgs-orcamentos&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Nossa Caixa de Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
